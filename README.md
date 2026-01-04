@@ -95,7 +95,7 @@ This project is ideal for demonstrating skills relevant to:
 If you’d like to discuss this project or explore collaboration opportunities:
 
 * LinkedIn: https://www.linkedin.com/in/faheemuddin14/
-* Dashboard: 
+* Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMWY1Y2Q0MzAtYTNhNS00NGI0LWI5MDEtMzJlYzEwMzlmNGQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ⭐ If you find this project useful, feel free to star the repository!
 
