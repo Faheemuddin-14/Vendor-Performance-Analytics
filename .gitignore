@@ -1,0 +1,15 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
